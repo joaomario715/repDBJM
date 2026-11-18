@@ -81,7 +81,7 @@
                     <div class="numero-projeto">
                         01
                     </div>
-                    <h3>Verificador de idade (POST)</h3>
+                    <h3>db1</h3>
                     <p>
                        
                     </p>
@@ -90,7 +90,7 @@
                         <span>CSS</span>
                         <span>PHP</span>
                     </div>
-                    <a href="idade.php">Ver projetos</a>
+                    <a href="db1.php">Ver projetos</a>
                 </div>
                 <!-- PROJETO 2 -->
                 <div class="card">
